@@ -30,13 +30,13 @@
  */
 #property copyright "Naoghuman (Peter Rogge)"
 #property link      "https://github.com/Naoghuman/MQL5_Script_Swap"
-#property version   "1.001"
+#property version   "1.002"
 
 // Input
 // display window of the input parameters during the script's launch
 #property script_show_inputs
 
-input group "== 'Report Swap (Broker NSFX)' ====================="
+input group "== 'Swap-Dividend' ================================="
 input string InputMarket    = ""; // List of markets (separated with ;) which will be analysed
 input string InputBroker    = ""; // The Broker which markets should be analysed
 input double InputThreshold = 1;  // Values greater then 'n' generates a signal
