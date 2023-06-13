@@ -30,4 +30,4 @@ I myself calculate with 1%-2% on average for positive overnight charges and 2%-5
 In our win trade we have a difference from ***25,00€** (160,00€ = +swap; 135,00€ = -swap)*.
 In our loss trade we also have a difference from ***25,00€** (-90,00€ = +swap; -115,00€ = -swap)*.
 
-That means in summary we have a difference from **50,00€** in our trades if we trade in context from +swap.
+That means in summary we have a difference from **50,00€** in our trades if we trade in context from +swap and avoid -swap trades.
